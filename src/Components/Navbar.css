@@ -1,0 +1,21 @@
+.navigation{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.navbar{
+
+    padding: 8px 14px;
+}
+
+.nav-links{
+
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    
+
+}
+
