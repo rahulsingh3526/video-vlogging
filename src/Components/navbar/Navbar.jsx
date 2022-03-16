@@ -1,5 +1,5 @@
 import "./Navbar.css"
-
+//import "../navmini/navbar1.css"
 import { FaBars} from "react-icons/fa";
 
 function Navbar(){
@@ -13,7 +13,7 @@ function Navbar(){
               <li><a href="/#">HOME</a></li>
               <li><a href="/#">VIDEO</a></li>
               <li><a href="/#">POST</a></li>
-              <li><a href="/#">BROWSE</a></li>
+              <li><a href="/#">UPLOAD</a></li>
 
             <button>
             <FaBars/>
